@@ -108,6 +108,8 @@ Backend
 Centralized error-handling middleware in Express
 
 Proper HTTP response codes for validation and database errors
+Backend API is available at:
+👉 https://testing-and-debugging-ensuring-mern-app-46mt.onrender.com/
 
 Frontend
 React Error Boundaries for catching rendering errors
