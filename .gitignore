@@ -1,0 +1,46 @@
+# Node.js dependencies
+/node_modules
+/backend/node_modules
+/frontend/node_modules
+
+# Build output
+/build
+/dist
+/frontend/build
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# npm package-lock and yarn lock files (optional to ignore based on preference)
+package-lock.json
+yarn.lock
+
+# Coverage folder for testing
+/coverage
+
+# React specific
+/frontend/.env.local
+/frontend/.env.*.local
+
+# Optional: Ignore all the files in the frontend build folder
+# /frontend/build
+
+# Ignore all files related to testing libraries or caches
+/.jest
+/.nyc_output
